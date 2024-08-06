@@ -31,12 +31,16 @@ ocasión no serán funcionales). Finalmente, el formulario traerá las opciones 
 bloqueada de manera original.
 
 • El tipo de letra que se usará en la página web será: Verdana.
+
 • El color de fondo de la barra de navegación será #051B54 con letra blanca.
+
 • El color del botón de inicio de sesión será: #FFFFFF33 con letra blanca.
 
 El color de fondo de la sección debajo de la barra de navegación (promocional) será
 #62DAD3.
 
 • El color de letra del formulario será #051B54.
+
 • El tipo de letra del nombre de la empresa “AeroVia Express” será: Gill Sans.
+
 • El formulario debe quedar con un sombreado.
